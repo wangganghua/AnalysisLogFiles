@@ -2,7 +2,7 @@
 # time: 2018-6-25
 # author: xxxxx
 # python3
-# pip install pandas、
+# pip install pandas、（取消使用）
 # import pandas as pd
 import re
 from connectionmysql.connectionmysql import ConnectionMySql
