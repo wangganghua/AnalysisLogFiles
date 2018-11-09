@@ -1,0 +1,6 @@
+Wed Jun 20 09:57:03 2018,BOX>>>user: 1, ip: 192.168.31.143 ,port: 13518, cmd: [file info         ]file:/ , ret: 1  - 0 s
+Wed Jun 20 09:57:03 2018,BOX>>>user: 1, ip: 192.168.31.143 ,port: 13518, cmd: [read dir          ]dir:/ , ret: 1  - 0 s
+Wed Jun 20 09:57:03 2018,BOX>>>user: 1, ip: 192.168.31.143 ,port: 13518, cmd: [file info         ]file:/ , ret: 1  - 0 s
+Wed Jun 20 09:57:04 2018,BOX>>>user: 1, ip: 192.168.31.143 ,port: 13518, cmd: [read dir          ]dir:/ , ret: 1  - 0 s
+Wed Jun 20 09:57:04 2018,BOX>>>user: 1, ip: 192.168.31.143 ,port: 13518, cmd: [user exit         ], ret: 1  - 0 s
+Tue Jun 19 10:57:29 2018,BOX>>>user: admin, ip: 192.168.31.143 ,port: 965, cmd: [upload file       ]file:/public/linux-2.6_admin__¸±±¾(2).23/linux-2.6.23/drivers/char/nwflash.c,2h,2h , ret: -22  - 0 s
