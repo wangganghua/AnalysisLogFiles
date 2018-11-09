@@ -31,7 +31,7 @@ class ConnectionMySql:
                 # wr.saveerrorlog()
                 istrue = True
                 index += 1
-                print("开始连接MySql第 %s 次" % index)
+                print("开始连接MySql第 %s 次......" % index)
             else:
                 istrue = False
                 cur = con.cursor()
@@ -62,7 +62,7 @@ class ConnectionMySql:
                 # wr.saveerrorlog()
                 istrue = True
                 wa += 1
-                print ("开始连接MySql第 %s 次" % wa)
+                print ("开始连接MySql第 %s 次......" % wa)
             else:
                 istrue = False
                 cur = con.cursor()
@@ -96,7 +96,7 @@ class ConnectionMySql:
                 # wr.saveerrorlog()
                 istrue = True
                 wa += 1
-                print ("开始连接MySql第 %s 次" % wa)
+                print ("开始连接MySql第 %s 次......" % wa)
             else:
                 istrue = False
                 cur = con.cursor()
